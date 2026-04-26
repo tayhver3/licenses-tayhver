@@ -1,1 +1,3 @@
-
+- แก้ไขบัค Security Access บน READ ID
+- เพิ่มระบบ Auto-Detect รุ่นรถ
+- ปรับปรุงความเสถียรอื่นๆ
